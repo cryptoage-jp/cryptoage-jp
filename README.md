@@ -1,3 +1,3 @@
 # cryptoage-jp
 
-cryptoage.jp
+https://cryptoage.jp/
